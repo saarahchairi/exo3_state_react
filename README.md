@@ -8,4 +8,4 @@ Consignes : 
 
 > Créer la fonction "removeEl" qui permet de supprimer un élément de ton state(mettre à jour le state) et par conséquent met à jour également la longueur de ton state dans ton dom 
 
-> Créer une autre fonction qui va analyser la longueur de ton state. Si la longueur de ton state est égal à 1, le body prendra un bg-color orange. Si la longueur est de 0, le body prendra un bg-color red# exo3_state_react
+> Créer une autre fonction qui va analyser la longueur de ton state. Si la longueur de ton state est égal à 1, le body prendra un bg-color orange. Si la longueur est de 0, le body prendra un bg-color red# 
